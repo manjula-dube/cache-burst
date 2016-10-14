@@ -1,0 +1,22 @@
+{
+  "name": "grunt-cache-burst",
+  "version": "1.0.0",
+  "description": "1.0",
+  "main": "g",
+  "scripts": {
+    "test": "g"
+  },
+  "repository": {
+    "type": "git",
+    "url": "f"
+  },
+  "keywords": [
+    "d"
+  ],
+  "author": "d",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cache-bust": "^1.4.1"
+  }
+}
