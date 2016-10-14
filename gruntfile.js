@@ -5,13 +5,14 @@ grunt.initConfig({
   cacheBust: {
     options: {
     assets: ['assets/**/*'],
-    baseDir: './public/'
+    baseDir: './public/',
+    length:6
     },
   taskName: {
     files: [{   
     expand: true,
     cwd: 'public/',
-    src: ['templates/**/*.html', 'assets/**/*']
+    src: ['templates/homepage.html']
     }]
   }
   }
